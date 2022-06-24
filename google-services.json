@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "396163566591",
+    "firebase_url": "https://livecom-dev-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "livecom-dev",
+    "storage_bucket": "livecom-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396163566591:android:aa71b675de7c483af2b5ca",
+        "android_client_info": {
+          "package_name": "my.com.livecom.superApp.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396163566591-l0defc1rcrjqmcfg3bj3mae6u83gmdmp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "my.com.livecom.superApp.dev",
+            "certificate_hash": "1dca5098ae2d1a2f38b2175ce41d705816ea7a5d"
+          }
+        },
+        {
+          "client_id": "396163566591-19bn6klpn0g3r9us8a18m8r55gjpf7o3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-rRCO2NDMuR2xTskhmLrT4LQKRe0eisI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396163566591-19bn6klpn0g3r9us8a18m8r55gjpf7o3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "396163566591-68fae1esbjl9v6j5mg109nhdbm0qoj2i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.livecom.superApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
